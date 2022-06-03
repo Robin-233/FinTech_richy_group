@@ -1,0 +1,9 @@
+Name,bob,Platform,Redbook
+,Before Tax income,Tax,After-Tax income
+Live,50000,2500,47500
+Advertising,20000,1000,19000
+Drainage and realization,3000,150,2850
+Online Store,4000,200,3800
+Before Tax Total income,77000
+Total Tax Payable,3850
+After Tax Total income,73150
